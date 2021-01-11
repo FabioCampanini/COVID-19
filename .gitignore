@@ -20,3 +20,4 @@ Thumbs.db
 # Changelog test
 changelog.txt
 metadata/covid-19-aree -nuove - IT.xml
+*.xml
